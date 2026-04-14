@@ -73,14 +73,9 @@ Before installing this plugin, make sure you have:
 
 ## 📂 Plugin Structure
 
-directorist-single-listing-customizer/
-│
-├── directorist-single-listing-customizer.php # Main plugin file
-├── assets/
-│ └── style.css # Custom styles
-└── templates/
-└── single.php # Overridden template
-
+directorist-single-listing-customizer/directorist-single-listing-customizer.php # Main plugin file
+directorist-single-listing-customizer/assets/style.css # Custom styles
+directorist-single-listing-customizer/templates/single.php # Overridden template
 
 ---
 
